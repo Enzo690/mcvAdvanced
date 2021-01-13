@@ -1,0 +1,17 @@
+{
+    "name": "ethibert/mvcadvanced",
+    "authors": [
+        {
+            "name": "Enzo690",
+            "email": "ethibert@edenschool.fr"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "Todo\\": "src/"
+        }
+    }
+}
